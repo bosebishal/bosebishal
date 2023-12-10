@@ -1,3 +1,4 @@
+[![MasterHead](https://docs.telerik.com/devtools/wpf/controls/radchartview/features/images/radchartview-features-animations-main-animations.gif)]
 <h1 align="center">Hi 👋, I'm Bishal Bose</h1>
 <h3 align="center">A passionate data science aspirant from India, As a data science enthusiast, this is my github repository where I upload my work</h3>
 
